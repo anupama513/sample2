@@ -1,0 +1,26 @@
+.eachResult{
+	padding:15px;
+	border-bottom: 1px solid #CDCDCD;
+	background-color: #FFF;
+}
+.floatRight{
+	float: right;
+}
+.floatLeft{
+	float: left;
+}
+.wid{
+	width: 100%;
+}
+.borderleft{
+	border-left: 1px solid #CDCDCD;
+}
+.paddingLeft {
+	padding-left : 25px;
+}
+.threeFourthWidth{
+	width: 70%;
+}
+.oneFourthWidth{
+	width: 30%;
+}
